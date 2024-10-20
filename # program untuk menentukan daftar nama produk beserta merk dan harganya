@@ -1,0 +1,19 @@
+# program untuk menentukan daftar nama produk beserta merk dan harganya
+# String
+nama = "polo"
+merk = "giordano"
+harga = "Rp 399.000"
+hasil_string = "Nama: " + nama + ", Merk: " + merk + ", Harga: " + harga
+print("Hasil nama, merk, harga:", hasil_string)
+# String
+nama = "sepatu"
+merk = "converse"
+harga = "Rp 899.000"
+hasil_string1 =  "Nama: " + nama + ", Merk: " + merk + ", Harga: " + harga
+print("Hasil nama, merk, harga:", hasil_string1)
+# String
+nama = "tas"
+merk = "diadora"
+harga = "Rp 399.000"
+hasil_string2 =  "Nama: " + nama + ", Merk: " + merk + ", Harga: " + harga
+print("Hasil nama, merk, harga:", hasil_string2)
